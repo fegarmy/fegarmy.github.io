@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,KACI,wBACJ,CACA,uDACI,iBACJ","file":"main.120d014f.chunk.css","sourcesContent":["html {\n    background-color: #1c3881;\n}\n.MuiButtonBase-root.MuiButton-root.MuiButton-contained {\n    margin-right: 20px;\n}\n"]}

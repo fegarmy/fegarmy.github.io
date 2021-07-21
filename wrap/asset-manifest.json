@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/wrap/static/css/main.b4304b86.chunk.css",
+    "main.js": "/wrap/static/js/main.b11a9a81.chunk.js",
+    "main.js.map": "/wrap/static/js/main.b11a9a81.chunk.js.map",
+    "runtime-main.js": "/wrap/static/js/runtime-main.5a6c97f9.js",
+    "runtime-main.js.map": "/wrap/static/js/runtime-main.5a6c97f9.js.map",
+    "static/js/2.06a48f5b.chunk.js": "/wrap/static/js/2.06a48f5b.chunk.js",
+    "static/js/2.06a48f5b.chunk.js.map": "/wrap/static/js/2.06a48f5b.chunk.js.map",
+    "index.html": "/wrap/index.html",
+    "static/css/main.b4304b86.chunk.css.map": "/wrap/static/css/main.b4304b86.chunk.css.map",
+    "static/js/2.06a48f5b.chunk.js.LICENSE.txt": "/wrap/static/js/2.06a48f5b.chunk.js.LICENSE.txt",
+    "static/media/ADA.6e1bb374.png": "/wrap/static/media/ADA.6e1bb374.png",
+    "static/media/BTC.4771191a.png": "/wrap/static/media/BTC.4771191a.png",
+    "static/media/DOGE.6882d241.png": "/wrap/static/media/DOGE.6882d241.png",
+    "static/media/DOT.9e78b8c3.png": "/wrap/static/media/DOT.9e78b8c3.png",
+    "static/media/FEG.a9ccd492.png": "/wrap/static/media/FEG.a9ccd492.png",
+    "static/media/USDC.353fc00b.png": "/wrap/static/media/USDC.353fc00b.png",
+    "static/media/USDT.34a6668a.png": "/wrap/static/media/USDT.34a6668a.png",
+    "static/media/XRP.517aa2a0.png": "/wrap/static/media/XRP.517aa2a0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a6c97f9.js",
+    "static/js/2.06a48f5b.chunk.js",
+    "static/css/main.b4304b86.chunk.css",
+    "static/js/main.b11a9a81.chunk.js"
+  ]
+}

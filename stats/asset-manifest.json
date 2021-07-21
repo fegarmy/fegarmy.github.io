@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/stats/static/css/main.8f3a29c2.chunk.css",
+    "main.js": "/stats/static/js/main.5341dbd6.chunk.js",
+    "main.js.map": "/stats/static/js/main.5341dbd6.chunk.js.map",
+    "runtime-main.js": "/stats/static/js/runtime-main.7bdf71fc.js",
+    "runtime-main.js.map": "/stats/static/js/runtime-main.7bdf71fc.js.map",
+    "static/js/2.71c5caa8.chunk.js": "/stats/static/js/2.71c5caa8.chunk.js",
+    "static/js/2.71c5caa8.chunk.js.map": "/stats/static/js/2.71c5caa8.chunk.js.map",
+    "index.html": "/stats/index.html",
+    "static/css/main.8f3a29c2.chunk.css.map": "/stats/static/css/main.8f3a29c2.chunk.css.map",
+    "static/js/2.71c5caa8.chunk.js.LICENSE.txt": "/stats/static/js/2.71c5caa8.chunk.js.LICENSE.txt",
+    "static/media/Colored.5825dda7.svg": "/stats/static/media/Colored.5825dda7.svg",
+    "static/media/btc-logo.c0012a2d.png": "/stats/static/media/btc-logo.c0012a2d.png",
+    "static/media/colored-original.b872664c.svg": "/stats/static/media/colored-original.b872664c.svg",
+    "static/media/logo-bscscan.1852e07e.svg": "/stats/static/media/logo-bscscan.1852e07e.svg",
+    "static/media/logo-ether.b0dbd0c7.png": "/stats/static/media/logo-ether.b0dbd0c7.png",
+    "static/media/logo.f970d646.png": "/stats/static/media/logo.f970d646.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7bdf71fc.js",
+    "static/js/2.71c5caa8.chunk.js",
+    "static/css/main.8f3a29c2.chunk.css",
+    "static/js/main.5341dbd6.chunk.js"
+  ]
+}
